@@ -1,8 +1,6 @@
-## Hi 👋, Shivaling Basavaraj Menasi
-----------------------------------------------------------------------------------------------------------
-##                                        A passionate developer from India 🇮🇳
-----
 
+<h1 align="center">Hi 👋, Shivaling Basavaraj Menasi</h1>
+<h3 align="center">A passionate developer from India</h3>
 # 💫 About Me:
 🧑🏼‍🏫I'm a student at NHCE - (CSE) <br><br>🔭 I'm currently working on Java, data structures and algorithms, databases, and web development🥷🏼<br><br>🌱 I'm currently learning Spring, databases, and front-end development with React.<br><br>💬 Open to collaborating on Java web development and other web development projects.
 
@@ -36,6 +34,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivalingMenasi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShivalingMenasi&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=ShivalingMenasi&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
