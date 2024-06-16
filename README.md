@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, Shivaling Basavaraj Menasi</h1>
 <h3 align="center">A passionate developer from India</h3>
-# 💫 About Me:
-🧑🏼‍🏫I'm a student at NHCE - (CSE) <br><br>🔭 I'm currently working on Java, data structures and algorithms, databases, and web development🥷🏼<br><br>🌱 I'm currently learning Spring, databases, and front-end development with React.<br><br>💬 Open to collaborating on Java web development and other web development projects.
+
+##  💫 About Me:
+
+🧑🏼‍🏫 I'm a student at NHCE - (CSE) <br><br> 🔭 I'm currently working on Java, data structures and algorithms, databases, and web development🥷🏼<br><br> 🌱 I'm currently learning Spring, databases, and front-end development with React.<br><br> 💬 Open to collaborating on Java web development and other web development projects.
 
 
 ## 🌐 Socials:
